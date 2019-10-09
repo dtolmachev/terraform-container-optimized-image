@@ -2,14 +2,14 @@
 
 Это тестовый ресурс для конфигурации Container Optimized Image.
 
-#Конфигурация
+# Конфигурация
 * Подставьте свой публичный ssh ключ вместо "your public ssh key" в cloud_config.yaml
 * Подставьте свой token вместо "your YC_TOKEN" в main.tf
 * Подставьте свой folder_id вместо "your folder id" в main.tf
 * Подставьте свою zone вместо "your zone" в main.tf
 * Подставьте свою subnet_id вместо "your subnet id" в main.tf
 
-#Запуск
+# Запуск
 * Запустите ```terraform plan```, потом ```terraform apply```
 * В outputs будет выведено:
 ```
