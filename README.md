@@ -7,7 +7,7 @@
 * Подставьте свой token вместо "your YC_TOKEN" в main.tf
 * Подставьте свой folder_id вместо "your folder id" в main.tf
 * Подставьте свою zone вместо "your zone" в main.tf
-* Подставьте свою subnet_id вместо "your subnet id" в main.tf
+* Подставьте свой subnet_id вместо "your subnet id" в main.tf
 
 # Запуск
 * Запустите ```terraform plan```, потом ```terraform apply```
