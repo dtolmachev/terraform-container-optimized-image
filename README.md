@@ -18,7 +18,7 @@
   external_ip = <some_IPv4>
 ``` 
 * Зайдите на публичный IPv4 адрес: ```ssh yc-user@<some_IPv4>```
-* Сделайте ```curl <some_IPv4>```, в ответ должно быть:
+* Сделайте ```curl <some_IPv4>```, в ответе должно быть:
 ```
     <!DOCTYPE html>
     <html lang="en">
