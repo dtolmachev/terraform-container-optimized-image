@@ -1,4 +1,4 @@
-# terraform-container-optimzed-image
+# terraform-container-optimized-image
 
 Это тестовый ресурс для конфигурации Container Optimized Image.
 
