@@ -1,6 +1,5 @@
 provider "yandex" {
   token = "your YC_TOKEN"
-  endpoint = "api.cloud.yandex.net:443"
   folder_id = "your folder id"
   zone = "your default zone"
 }
